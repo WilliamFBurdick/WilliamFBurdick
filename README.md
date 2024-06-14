@@ -4,7 +4,7 @@
     An enthusiastic software developer, passionate about video game development. Currently working in C# and Unity in the Casino Gaming Industry, working to transition to a career in professional video game development. I love learning new languages, tools, and techniques to improve my software design and create fun new experiences.
 </p>
 <p align:"center">
-    Developing hobbyist game experiences using Unity and C#, as well as C++ with SDL and OpenGL.
+    Developing hobbyist game experiences using Unity, SDL2, and OpenGL with the C# and C++ programming languages.
 </p>
 
 <br><br>
